@@ -1,5 +1,23 @@
 {
   "properties": {
-    "activities": []
+    "activities": [
+      {
+        "type": "TridentNotebook",
+        "typeProperties": {
+          "notebookId": "3bbe15d6-9a49-9e8c-4ea7-c4031b331542",
+          "workspaceId": "00000000-0000-0000-0000-000000000000"
+        },
+        "policy": {
+          "timeout": "0.12:00:00",
+          "retry": 0,
+          "retryIntervalInSeconds": 30,
+          "secureInput": false,
+          "secureOutput": false
+        },
+        "name": "Notebook Test Source Control",
+        "description": "adding a notebook to create items for a test pipeline with no further function",
+        "dependsOn": []
+      }
+    ]
   }
 }
