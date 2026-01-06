@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_earthquake_transform"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "de703b04-b1e5-bd13-499b-759114511afa"
+  }
+}
