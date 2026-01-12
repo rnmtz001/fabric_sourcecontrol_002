@@ -29,10 +29,10 @@
 
 # CELL ********************
 
-from datetime import date, timedelta 
+## from datetime import date, timedelta 
 
-start_date = date.today() - timedelta(7)
-end_date = date.today() - timedelta(1)
+## start_date = date.today() - timedelta(7)
+## end_date = date.today() - timedelta(1)
 
 # METADATA ********************
 
